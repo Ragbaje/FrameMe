@@ -1,7 +1,6 @@
 <div align="center">
 <img width="1024" height="1024" alt="Copilot_20260201_121026" src="https://github.com/user-attachments/assets/2a6fbe75-79a5-46b9-9258-5bf1b9cd8038" />
-
-   />
+   
 </div>
 
 # Run My AI CV app!
