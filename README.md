@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1024" height="1024" alt="Copilot_20260201_121026" src="https://github.com/user-attachments/assets/2a6fbe75-79a5-46b9-9258-5bf1b9cd8038" />
+
+   />
 </div>
 
-# Run and deploy your AI Studio app
+# Run My AI CV app!
 
 This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1fR0ANObZv3A5K4l6cVWU10_wKFJz2vT3
 
 ## Run Locally
 
